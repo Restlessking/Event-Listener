@@ -1,1 +1,1 @@
-This page div and circle both background color changes using DOM 
+The background color for a div and circle on this page can be changed through DOM and Javascript functions with Event listeners.
